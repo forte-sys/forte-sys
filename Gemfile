@@ -14,5 +14,4 @@ gem "wdm", "~> 0.1.0", :platforms => [:mswin, :mingw]
 gem "tzinfo-data", platforms: [:mswin, :mingw, :jruby]
 
 # generate for github
-gem 'middleman-gh-pages'
 gem 'middleman-deploy', '~> 1.0'
