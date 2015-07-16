@@ -1,3 +1,4 @@
 #!/bin/bash
 
-bundle exec middleman $*
+#default script that get things setup faster.
+bundle install && bundle exec middleman $*
